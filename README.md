@@ -49,7 +49,7 @@ to use the built-in PHP web server or [configure a web server][3] like Nginx or
 Apache to run the application.
 
 
-### Comment lancer les tests : 
+### Comment lancer les tests: 
 
 
 
